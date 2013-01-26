@@ -1,7 +1,7 @@
 Lesson #0 - HTML, CSS, GITHUB, etc
 ===
 
-Feb 26th, 2013
+Feb 26th, 2013 - HELLO 
 
 Welcome & Thanks
 ---
