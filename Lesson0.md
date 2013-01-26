@@ -6,7 +6,8 @@ Feb 26th, 2013
 Welcome & Thanks
 ---
 This class is being organized to benefit the Indianapolis & PHP Developer communities.  Thaks for
-attending, and thanks to PLTW for the space, and STG.NET for the server.
+attending, and thanks to [PLTW](http://www.pltw.org/) for the space, and [STG.NET](http://stg.net) for 
+the web server.
 
 Requirements
 ---
