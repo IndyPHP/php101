@@ -18,8 +18,8 @@ Requirements
 * Go to [indyphp.com](indyphp.com)
 * Sign Up for class account (email used stritly for class purposes)
 * Class account provides web based editor & shell access to standard LAMP environment
-** Includes git, pandoc, and other tools
-** Your class account can be used anytime to practice and learn
+ * Includes git, pandoc, and other tools
+ * Your class account can be used anytime to practice and learn
 * You can also set up your own LAMP/WAMP environment or use other resources
 
 Editor Practice
@@ -44,10 +44,10 @@ What is Github?
 * Anyone can get a copy of a public repository even without an account
 * Create repository or track your own version (fork) of a project
 * Facebook-like features make it 'Social Coding'
-** Projects (repositories) and users can be Star'd (like'd)
-** Timeline/History of projects can be viewed
-** Comments/Issues can be posted
-** Convenient, encourages open source project development
+ * Projects (repositories) and users can be Star'd (like'd)
+ * Timeline/History of projects can be viewed
+ * Comments/Issues can be posted
+ * Convenient, encourages open source project development
 
 Using shell and git command line
 ---
