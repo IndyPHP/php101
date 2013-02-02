@@ -16,11 +16,11 @@ Updating Editor
 * This update fixes attribute problems and improves running scripts by putting the output in an iframe rather than a pop-up.
 
 **Update Procedure**
-1. Press the Shell button and run these commands:
-2. **git clone http://github.com/stgnet/editor**
-3. **cp editor/editor.php .**
-4. Return to the Editor tab and press CTRL-R to reload
-5. Confirm that the title reads "Editor V1.1"
+* Press the Shell button and run these commands:
+* **git clone http://github.com/stgnet/editor**
+* **cp editor/editor.php .**
+* Return to the Editor tab and press CTRL-R to reload
+* Confirm that the title reads "Editor V1.1"
 
 
 
