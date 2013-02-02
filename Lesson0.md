@@ -1,7 +1,7 @@
 Lesson #0 - HTML, CSS, GITHUB, etc
 ===
 
-Feb 26th, 2013 - HELLO 
+Feb 26th, 2013 - [Youtube Video](http://www.youtube.com/watch?v=FCbh-TRvzO8)
 
 Welcome & Thanks
 ---
