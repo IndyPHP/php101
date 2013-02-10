@@ -1,4 +1,4 @@
-Lesson #1 - Echo, Variables, IF
+Lesson #1 - Operators an Switch
 ===
 
 Feb 9, 2013 - 
