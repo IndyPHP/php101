@@ -34,6 +34,9 @@ Online (Free) PHP Books
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp)
 
+GitHub
+---
+* [How the heck to I use GitHub](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
 
 Bootstrap
 ---------
