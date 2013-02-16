@@ -20,6 +20,7 @@ Updating Editor
 * Press the Shell button and run these commands:
 * **git clone http://github.com/stgnet/editor**
 * **cp editor/editor.php .**
+ * . refers to the current directory, thus same as **cp editor/editor.php ./editor.php**
 * Return to the Editor tab and press CTRL-R to reload
 * Confirm that the title reads "Editor V1.1"
 
