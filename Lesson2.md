@@ -1,4 +1,4 @@
-Lesson #1 - Operators and Switch
+Lesson #2 - Operators and Switch
 ===
 
 Feb 9, 2013 - 
