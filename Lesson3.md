@@ -24,6 +24,7 @@ News
 
 Today's Class
 ---
+* Review, update editor.php
 * Basic HTML5 starting point
 * Passing arguments to PHP via the URL
 * Create a calculator program using URL arguments
