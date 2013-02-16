@@ -1,7 +1,7 @@
 Lesson #1 - Echo, Variables, IF
 ===
 
-Feb 2, 2013 - 
+Feb 2, 2013 - **Updated instructions for editor v1.1 update**
 
 Review & Info
 ---
