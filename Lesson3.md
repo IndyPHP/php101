@@ -13,6 +13,7 @@ Review & Info
  * If, Else
 * Review lessons from Lesson2.md
  * Arithmetic Operators
+ * Comparison Operators
  * Logical Operators
  * Switch Statement
 
