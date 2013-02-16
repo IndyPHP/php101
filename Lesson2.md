@@ -28,7 +28,8 @@ Video Series
 
 2B: Comparison Operators
 ---
-* Video: http://www.youtube.com/watch?v=I_IP_N6HEfY&list=PL960338B143E7F889
+* WAS WRONG Video: http://www.youtube.com/watch?v=I_IP_N6HEfY&list=PL960338B143E7F889
+* CORRECTED Video: http://www.youtube.com/watch?v=kyjsGLaJwMg&list=PL960338B143E7F889
 
 2C: Logical Operators
 ---
