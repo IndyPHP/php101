@@ -37,6 +37,7 @@ Online (Free) PHP Books
 GitHub
 ---
 * [How the heck to I use GitHub](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
+* [Learn Git Branching](http://pcottle.github.com/learnGitBranching/)
 
 Bootstrap
 ---------
