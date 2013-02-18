@@ -52,3 +52,6 @@ PHP Unit Testing (Test Driven Development)
 ---
 * [Free Book: Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 
+Other Resources
+---
+* [Online VI Tutorial](http://www.openvim.com/tutorial.html)
