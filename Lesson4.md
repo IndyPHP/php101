@@ -1,4 +1,4 @@
-Lesson #2 - Operators and Switch
+Lesson #2 - Arrays and Loops
 ===
 
 Feb 23, 2013 - (actually posted Mar 1)
