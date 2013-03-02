@@ -1,4 +1,4 @@
-Lesson #2 - Arrays and Loops
+Lesson #4 - Arrays and Loops
 ===
 
 Feb 23, 2013 - (actually posted Mar 1)
